@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">projet 1 application</string>
+    <string name="text">Bonjour,choisissez une couleur</string>
+    <string name="couleur1">rouge</string>
+    <string name="couleur2">bleu</string>
+    <string name="couleur3">vert</string>
+    <string name="valider">VALIDER</string>
+    <string name="Nom">Nom</string>
+    <string name="NoM"></string>
+    <string name="prenom">prenom</string>
+    <string name="prenoM"></string>
+    <string name="Email">Email</string>
+    <string name="codepostal">code postal</string>
+    <string name="ville">ville</string>
+</resources>
